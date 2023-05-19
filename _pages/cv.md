@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Science in Automation, Aug. 2019 - July 2023
 
 Work experience
 ======
